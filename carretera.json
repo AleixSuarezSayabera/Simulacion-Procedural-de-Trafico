@@ -1,0 +1,15 @@
+{
+ "cars":
+	{"start_position":{"x":100,"y":100},
+	"width":30,
+	"height":20,
+	"vides":3,
+	"increment":0.005,
+	"velocitat":15}
+	,
+  "carretera":{"lambda":3, 
+  				"angle_gir":3,
+  				"R_min":400,"R_max":800,
+				"L_c_min":200,"L_c_max":400,
+				"L_min":200,"L_max":800}
+}
